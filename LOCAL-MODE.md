@@ -1,10 +1,7 @@
 # Offline mode is going places.
 
-Offline mode/cracked mod is now completely removed from the launcher.But you can still create offline account but you willn't be able to play Minecraft.For that you need Microsoft/Mojang account that has purchased the Minecraft Java edition.
+Offline mode/cracked mode is now completely removed from the launcher. You can still create offline account, but you'll not be able to play Minecraft. For that you'll still need a Microsoft account that has purchased Minecraft Java Edition.
 
 **Pojavlauncher does't support any type of piracy or related action.**
 
 ### To purchase Minecraft [Click Here](https://www.minecraft.net/).
-
-## Don't tell anyone
-If you still want to play minecraft for free [Click Here](https://www.minecraft.net/en-us/get-minecraft)
